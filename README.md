@@ -1,7 +1,5 @@
 # 手工日程本制作指南 · 高桥手帐风 · 颜色自选版
 
-[![PDF下载](https://img.shields.io/badge/下载-PDF-blue.svg)](./Handmade_Schedule_Book_Guide.pdf)
-[![GLM-5.2](https://img.shields.io/badge/生成-GLM--5.2-brightgreen)](https://zhipuai.cn)
 
 ---
 
